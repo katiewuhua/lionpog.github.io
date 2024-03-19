@@ -17,3 +17,10 @@ p.redred{
 .blueblue{
     color: #7b533e;
 }
+.expedu_icon{
+    color:#648ab5
+}
+.expedu_icon:hover{
+    background-color:white;
+    color:#CA8EFF;
+}
