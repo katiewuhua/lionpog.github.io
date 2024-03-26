@@ -7,11 +7,13 @@ body{
 }
 
 p.redred{
+    background-color: #7b533e;
     color:#648ab5;
+    border: 5px solid;
+    border-color: antiquewhite;
     font-size: 40px;
     text-align: left;
     text-indent: 2em;
-    background: #D9FFFF;
 }
 
 .blueblue{
