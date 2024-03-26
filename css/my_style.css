@@ -6,6 +6,10 @@ body{
     font-family: "Noto Serif TC", serif;
 }
 
+.bg-primary {
+    background-color: #2f3552 ! important;
+}
+
 p.redred{
     background-color: #c9ebec;
     color:#6b77bb;
@@ -16,6 +20,7 @@ p.redred{
     text-align: left;
     text-indent: 2em;
 }
+
 
 .blueblue{
     color: #7b533e;
