@@ -7,10 +7,10 @@ body{
 }
 
 p.redred{
-    background-color: #7b533e;
-    color:#648ab5;
+    background-color: #c9ebec;
+    color:#6b77bb;
     border: 5px solid;
-    border-color: antiquewhite;
+    border-color: rgb(0, 0, 0);
     font-size: 40px;
     text-align: left;
     text-indent: 2em;
