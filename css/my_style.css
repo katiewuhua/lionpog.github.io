@@ -35,3 +35,14 @@ p.redred{
     background-color:white;
     color:#CA8EFF;
 }
+
+table.noahtable th{
+    text-align: center
+    background-color:white;
+    color:green;
+
+}
+
+table.noahtable td{
+    text-align: center;
+}
