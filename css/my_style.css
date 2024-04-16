@@ -38,11 +38,15 @@ p.redred{
 
 table.noahtable th{
     text-align: center
-    background-color:white;
-    color:green;
+    background-color white;
+    color:green
 
 }
 
 table.noahtable td{
     text-align: center;
+}
+
+.table-80{
+    width: 80%;
 }
