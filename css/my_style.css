@@ -13,7 +13,9 @@ body{
     background-size: cover;
 }
 
-p.redred{
+div.redred{
+    padding-bottom: 50px;
+    padding-top: 30px;
     background-color: #c9ebec;
     color:#6b77bb;
     border: 5px solid;
