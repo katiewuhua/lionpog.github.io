@@ -14,8 +14,10 @@ body{
 }
 
 div.redred{
-    padding-bottom: 50px;
-    padding-top: 30px;
+    padding: 20px ;
+    border: 10px solid orange;
+    border-radius: 5px;
+
     background-color: #c9ebec;
     color:#6b77bb;
     border: 5px solid;
