@@ -24,8 +24,8 @@ div.redred{
     border: 5px solid;
     background-image: url(--/assets/img/bg-seat.jpg);
     border-color: rgb(172, 190, 237);
-    font-size: 15px;
-    text-align: left;
+    font-size: 17px;
+    text-align: justify;
     text-indent: 2em;
 
 }
