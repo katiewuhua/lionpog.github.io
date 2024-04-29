@@ -14,7 +14,7 @@ body{
 }
 
 div.redred{
-    padding: 10px ;
+    padding: 10px;
     border: 10px solid orange;
     border-radius: 5px;
     margin: 0px 0px;
@@ -23,10 +23,11 @@ div.redred{
     color:#6b77bb;
     border: 5px solid;
     background-image: url(--/assets/img/bg-seat.jpg);
-    border-color: rgb(109, 89, 89);
-    font-size: 40px;
+    border-color: rgb(172, 190, 237);
+    font-size: 15px;
     text-align: left;
     text-indent: 2em;
+
 }
 
 
