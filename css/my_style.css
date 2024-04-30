@@ -30,23 +30,23 @@ div.redred{
 
 }
 
-
 .blueblue{
     color: #7b533e;
 }
+
 .expedu_icon{
     color:#648ab5
 }
+
 .expedu_icon:hover{
     background-color:white;
-    color:#CA8EFF;
+    color:#5c2f83;
 }
 
 table.noahtable th{
     text-align: center
     background-color white
-    color green
-
+    color rgb(120, 195, 224)
 }
 
 table.noahtable td{
